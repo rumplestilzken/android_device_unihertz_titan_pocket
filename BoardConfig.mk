@@ -1,4 +1,4 @@
-DEVICE_PATH := device/unihertz/gargoyle
+DEVICE_PATH := device/unihertz/gargoyle_pocket
 
 # A/B
 AB_OTA_UPDATER := true
