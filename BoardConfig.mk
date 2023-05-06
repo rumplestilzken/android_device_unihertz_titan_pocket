@@ -27,7 +27,7 @@ TARGET_NO_KERNEL_OVERRIDE := false
 
 KERNEL_ARCH := arm64
 KERNEL_NO_GCC = false
-TARGET_KERNEL_CONFIG := titan_emmc_defconfig
+TARGET_KERNEL_CONFIG := titanpocket_defconfig
 TARGET_KERNEL_CLANG_COMPILE = false
 TARGET_KERNEL_CROSS_COMPILE := aarch64-linux-android-
 TARGET_KERNEL_USE_CLANG = false
